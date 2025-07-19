@@ -15,7 +15,7 @@ $1200 Low Income for Seniors Program: How to Apply?
    :align: center
    :height: 100px
    :alt: $1200 Low Income Seniors Apply Now
-   :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-3000-senior-assistance-program%2F&sa=D&sntz=1&usg=AOvVaw1u4eX1uY4wuifnJc3esS6f
+   :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2F1200-low-income-for-seniors-benefits-eligibility-criteria-application-process%2F&sa=D&sntz=1&usg=AOvVaw2qLzXISN6-i3qns5FAR18w
 
 .. image:: blank.png
    :width: 350px
